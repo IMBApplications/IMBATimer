@@ -1,0 +1,7 @@
+.project
+.settings
+.classpath
+project.properties
+gen/*
+bin/*
+gen/net/mmojunkies/imbatimer/*
